@@ -1,6 +1,7 @@
 # H5GG-New
 
 Based on the existing H5GG source code, optimizations have been made. You can submit requests for new features in the issues section, and I will consider updating accordingly.
+Please download the H5GG dylib from [Releases](https://github.com/Oden1001/H5GG-New/releases).
 
 # 2025.9.4 Added New Function
 
