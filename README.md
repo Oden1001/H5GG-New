@@ -8,4 +8,4 @@ A new function has been added: By calling "h5gg.title();" in JS, you can now cus
 
 Here is an image to illustrate the difference:
 
-![img]("https://github.com/Oden1001/H5GG-New/edit/main/db.png")
+![img]("https://raw.githubusercontent.com/Oden1001/H5GG-New/refs/heads/main/db.png")
